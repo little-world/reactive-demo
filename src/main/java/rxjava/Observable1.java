@@ -1,6 +1,9 @@
 package rxjava;
-import io.reactivex.Observable;
-import io.reactivex.functions.Consumer;
+
+
+
+import io.reactivex.rxjava3.core.Observable;
+import io.reactivex.rxjava3.functions.Consumer;
 
 public class Observable1 {
 public static void main(String[] args) {

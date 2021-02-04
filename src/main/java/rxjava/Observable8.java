@@ -1,8 +1,9 @@
 package rxjava;
 
+import io.reactivex.rxjava3.core.Observable;
+
 import java.util.concurrent.TimeUnit;
 
-import io.reactivex.Observable;
 
 public class Observable8 {
 	public static void main(String[] args) throws InterruptedException {

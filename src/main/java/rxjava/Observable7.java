@@ -1,9 +1,11 @@
 package rxjava;
 
+import io.reactivex.rxjava3.core.Observable;
+
 import java.util.Arrays;
 import java.util.List;
 
-import io.reactivex.Observable;
+
 
 public class Observable7 {
 public static void main(String[] args) {
